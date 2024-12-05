@@ -52,7 +52,6 @@ public final class ActivationStrategy {
 
     @Nonnull
     public List<VariantDefinition> getVariants() {
-
         return variants;
     }
 }
